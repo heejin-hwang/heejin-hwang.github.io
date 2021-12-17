@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'heejin-hwang', // Usually your GitHub org/user name.
   projectName: 'heejin-hwang.github.io', // Usually your repo name.
+  deploymentBranch: 'main',
 
   presets: [
     [
